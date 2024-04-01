@@ -3,6 +3,7 @@ package com.example.basedomains;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+//testing for jenkins
 @SpringBootApplication
 public class BaseDomainsApplication {
 
